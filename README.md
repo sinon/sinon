@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Rob 👋
 
 <!--
 **sinon/sinon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Readme Card](https://github-readme-stats.vercel.app/api?username=sinon&show_icons=true&theme=react&rank_icon=github&card_width=475)](https://github.com/dmmulroy/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinon&show_icons=true&theme=react&card_width=475)](https://github.com/anuraghazra/github-readme-stats)
