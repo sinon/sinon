@@ -19,6 +19,6 @@ Day jobs have focussed on Python 🐍, Typescript, Javascript.
 
 Though most development in my spare time currently revolves around Rust 🦀 and Gleam ⭐
 
-[![Readme Card](https://github-readme-stats.vercel.app/api?username=sinon&show_icons=true&theme=react&rank_icon=github&card_width=500)](https://github.com/dmmulroy/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api?username=sinon&show_icons=true&theme=react&rank_icon=github&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinon&theme=react&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
